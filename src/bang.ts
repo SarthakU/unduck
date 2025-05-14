@@ -3,6 +3,15 @@
 export const bangs = [
   {
     c: "AI",
+    d: "www.perplexity.ai",
+    r: 0,
+    s: "Perplexity AI",
+    sc: "AI",
+    t: "perp",
+    u: "https://www.perplexity.ai/?q={{{s}}}",
+  },
+  {
+    c: "AI",
     d: "www.grok.com",
     r: 0,
     s: "Grok",
